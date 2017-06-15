@@ -1,5 +1,4 @@
-#
-Mental Model: Bayes Theorem
+# Mental Model: Bayes Theorem
 
 ## Discipline: Mathematics
 
