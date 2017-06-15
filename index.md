@@ -107,7 +107,7 @@ This blog is try to utilize Richard Freeman and Mungers's advice to create a men
 
 ### Discipline Mathematics
 
-* [basic arithmetic](./discipline_mathematics,_basic_arithmetic.md)
+* [basic arithmetic](./Discipline-Mathematics-BasicArithmetic.md)
 * [invert](./discipline_mathematics,invert.md)
 * [compound interest](./discipline_mathematics,compound_interest.md)
 * [elementary math of permutations and combinations](./discipline_mathematics,elementary_math_of_permutat.md)
