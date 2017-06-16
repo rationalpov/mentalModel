@@ -113,7 +113,7 @@ This blog is try to utilize Richard Freeman and Mungers's advice to create a men
 * [elementary math of permutations and combinations](./discipline_mathematics,elementary_math_of_permutat.md)
 * [basic probability, law of big number](discipline_mathematics,basic_probability,_law_of_b.md)
 * [basic probability, central limit theorem](discipline_mathematics,basic_probability,_central_.md)
-* [basic probability, bayes theorem](discipline_mathematics,basic_probability,_central_.md)
+* [basic probability, bayes theorem](bayes-theorem.md)
 * accounting
 
 ### Discipline Engineering
