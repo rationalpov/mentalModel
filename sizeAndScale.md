@@ -1,5 +1,7 @@
 # Mental Model: Size and Scale
 
+![size and scale](https://upload.wikimedia.org/wikipedia/commons/7/7b/Nscaletrackforsize.jpg)
+
 ## Discipline: Mathematics
 
 ### Up Stream Lattice
