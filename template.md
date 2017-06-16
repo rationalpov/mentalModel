@@ -1,5 +1,4 @@
-#
-Mental Model:
+# Mental Model name
 
 ## Discipline:
 
