@@ -138,6 +138,7 @@ This blog is try to utilize Richard Freeman and Mungers's advice to create a men
 ### Discipline Physics
 
 * Critical Mass
+* [Principle of least resistance](lawOfleastAction.md)
 
 
 ### Discipline Economics
