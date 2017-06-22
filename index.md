@@ -1,5 +1,4 @@
-#
-What are mental models, and why it is important ?
+# What are mental models, and why it is important ?
 
 ![mental model](https://dl.dropboxusercontent.com/spa/8a95omz6xkznrmw/3l_e7kvf.png)
 
