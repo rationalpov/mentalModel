@@ -106,11 +106,11 @@ This blog is try to utilize Richard Freeman and Mungers's advice to create a men
 
 ### Discipline Mathematics
 
-* [basic arithmetic](https://github.com/rationalpov/mentalModel/blob/master/BasicArithmetic.md)
+* [basic arithmetic](basicArithemetic.md)
 * [size and Scale](sizeAndScale.md)
 * [invert](./discipline_mathematics,invert.md)
 * [compound interest](./discipline_mathematics,compound_interest.md)
-* [elementary math of permutations and combinations](./discipline_mathematics,elementary_math_of_permutat.md)
+* [elementary math of permutations and combinations](combinations.md)
 * [basic probability, law of big number](lawOfBigNumbers.md)
 * [basic probability, central limit theorem](centralLimit.md)
 * [basic probability, bayes theorem](bayes-theorem.md)
@@ -118,22 +118,22 @@ This blog is try to utilize Richard Freeman and Mungers's advice to create a men
 
 ### Discipline Engineering
 
-* [feedback system](./discipline_engineering,feedback_system.md)
-* [backup system/redundancy](./discipline_engineering,backup_systemredundancy.md)
-* [break points](./discipline_engineering,break_points.md)
-* [Margin of Safety](./discipline_engineering,_margin_of_safety.md)
+* [feedback system](feedbackSystem.md)
+* [backup system/redundancy](redundancy.md)
+* [break points](breakPoint.md)
+* [Margin of Safety](marginOfSafety.md)
 
 ### Discipline Biology
 
-* [Evolution (Survival the fittest species)](./discipline-biology-evolution.md)
-* [Cancel Surgey formular](./discipline-biology-cancel-surgery-formular.md)
+* [Evolution (Survival the fittest species)](evolution.md)
+* [Cancel Surgey formular](cancelSurgey.md)
 * Repeat what works
 
 
 
 ### Discipline Chemistry
 
-* [Autocatalysis](./discipline_chemistry,autocatalysis.md)
+* [Autocatalysis](autoCatalysis.md)
 
 ### Discipline Physics
 
