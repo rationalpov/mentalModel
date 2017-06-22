@@ -111,8 +111,8 @@ This blog is try to utilize Richard Freeman and Mungers's advice to create a men
 * [invert](./discipline_mathematics,invert.md)
 * [compound interest](./discipline_mathematics,compound_interest.md)
 * [elementary math of permutations and combinations](./discipline_mathematics,elementary_math_of_permutat.md)
-* [basic probability, law of big number](discipline_mathematics,basic_probability,_law_of_b.md)
-* [basic probability, central limit theorem](discipline_mathematics,basic_probability,_central_.md)
+* [basic probability, law of big number](lawOfBigNumbers.md)
+* [basic probability, central limit theorem](centralLimit.md)
 * [basic probability, bayes theorem](bayes-theorem.md)
 * accounting
 
