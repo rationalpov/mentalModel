@@ -10,6 +10,7 @@ Once the fluid passed the Reynolds Number( ie . it reaches the **critical mass**
 
 Reynolds number is universal and appearing i blood pumping throuhg a heart and burning gas flowing through jet turbine.
 
+![reynolds number](https://upload.wikimedia.org/wikipedia/commons/c/ca/Reynolds_Number_Effect_on_Airfoil_Flow.svg)
 
 > The notion of a Reynolds number and critical velocity can also be applied to non-traditional domains: for instance, the flow of information in a computer network, where velocity is represented by bandwidth and viscosity is represented by processing speed of the individual nodes, or the flow of money in an economy, where velocity is represented by how fast funds are moving and viscosity is represented by transaction costs. 
 
