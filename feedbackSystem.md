@@ -72,6 +72,7 @@ Path exist from output to input
 
 * the output will be stable.
 
+
 ### Examples:
 
 
@@ -85,6 +86,7 @@ Economic: Housing Bubbles
 
 ![Case-Shiller Home Price Index](http://www1.realclearmarkets.com/images/wysiwyg_images/case1.JPG)
 
+___
 
 Bank Runs:
 
@@ -99,12 +101,16 @@ the output of rising stock price/currency prices feedback to the input, the gene
 
 you got the idea.
 
+___
+
 ![butterfly effect](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lorenz_attractor_yb.svg/400px-Lorenz_attractor_yb.svg.png)
 
 John Gribbin in [Deep Simplicity: Bringing Order to Chaos and Complexity] argues Chaos, could be just positive feedback + uncertain initial starting position;
 
 
 [Steven Strogatz, professor of theoretical and applied mechanics at Cornell University, describes the Millennium Bridge's notorious opening-day oscillations in the Nov. 3 issue of Nature.](https://www.sciencedaily.com/releases/2005/11/051103080801.htm)
+
+___
 
 [![milliennem bridge](https://dl.dropboxusercontent.com/spa/8a95omz6xkznrmw/fk1d35p0.png)](https://www.youtube.com/watch?v=eAXVa__XWZ8)
 
@@ -123,28 +129,8 @@ John Gribbin in [Deep Simplicity: Bringing Order to Chaos and Complexity] argues
 That's a live demostration of positive feedbackloop. people were walking disorganized and random, but once a few of them got into sync by pure chance, the wobbling becomes marked enough to lead more and more people to snap into its freqenency and compounding wobbling.
 
 > And the critical number of pedestrians, tested subsequently on the Millennium Bridge and derived independently by Strogatz and co-authors, is as low as 160. An estimated 80,000 people crossed the bridge on opening day, with as many as 2,000 on it at any one time.
-```
 
-* Negative Feedback:
-
-> We subtract the value of the output from the value of the input \(our desired value\), we get a value called the error signal. The error signal shows us how far off our output is from our desired input.
-
-
-Negative Feedback system will make the system output stable:
-
-for example:
-
-cruise control works by measures your speed by looking at the speedometer, and then adjust the throttle to either accelerate or decelerate to bring the speed to the desired number.
-
-**How to use this mental Model**:
-
-* Find out the system input and output.
-
-* Find out how output could affects input;
-
-* Beware if human is involved in the system, as human is suspectiable to [social prove](http://www.rationalpov.com/mental-model-s2-human-psychology-bias-2/), and it often creates positive feedback loop by itself.
-
-* Increase/decrease output by 10x, and try to analyse how it will influcence the input.
+_
 
 
 
