@@ -1,5 +1,4 @@
-#
-Mental Model Name:System 2, Human psychology bias
+# Mental Model Name:System 2, Human psychology bias
 #Discipline: Psychology
 #Lattice Rank : System 2
 
@@ -462,8 +461,10 @@ or, the it known as ego.
 > by Pratkanis and Aronson (Age of Propaganda, 1991), when they said, “By purchasing the ‘right stuff,’ we [the consumer] enhance our own egos
 
 > When you see the Marlboro man, it’s your ego—not your craving for paper tubes stuffed with tobacco—that motivates you to switch brands.
->
->
+
+> Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac -George Carlin
+
+
 **What to Predict:**
 
 * human will tend to misappraises himself on the high side
