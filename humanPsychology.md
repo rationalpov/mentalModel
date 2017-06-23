@@ -465,6 +465,9 @@ or, the it known as ego.
 > Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac -George Carlin
 
 
+
+
+
 **What to Predict:**
 
 * human will tend to misappraises himself on the high side
