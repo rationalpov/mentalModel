@@ -1,5 +1,4 @@
-#
-Mental Model: Elementary math of permutations and combinations
+# Mental Model: Elementary math of permutations and combinations
 
 ## Discipline:Mathematics
 
@@ -9,6 +8,7 @@ Basic Arithmetic
 
 ### Down Stream Lattice
 
+premature Optimization
 
 ### Peer Lattice:
 
@@ -201,6 +201,18 @@ couple scenarios:
 
 * If there is multiple group combination, multiple the base permuations.
 
+___
+
+[Premature optimization](https://www.edge.org/response-detail/27063)
+
+business  is facing  Nth degree of combination or even permuations, if he or she pick the right combination, and optimize accordingly , it will reach a state of optimal profits, or optimal fitness, or in another term, sucess.
+
+But success is also come with a curse, by optimizing towards success, you cut off all other combinations and thus risk of ommiting a much bigger success.
+
+In computer science, its termed the hill climbing problem
+
+
+![hill climbing](https://upload.wikimedia.org/wikipedia/commons/d/d5/Hill_Climbing_with_Simulated_Annealing.gif)
 
 
 
@@ -347,7 +359,7 @@ permutation of a pairs of card:
 
 so total = 2.28684E+150
 
-
+___
 
 **[Example](https://www.cs.sfu.ca/~ggbaker/zju/math/perm-comb-more.html)**
 
@@ -403,6 +415,9 @@ Brad Stone in his excellnent book [The everything Store: Jeff Bezos and the age 
 He tried many things and argurblly failed. A9 Search, Street view ( of amazon version ). but one vision he had was to break computer infrastrutre into what he called primitives( computing, communication, payment, storagage ), and he believed amazon just need to implement these primitives and make it avaliable, cheap, then it will exploded into amazing things.
 
 Thus the invention of Amazon Elastic Cloud and Simple Storage ( S3 )
+
+
+___
 
 **[Example binomial distrion](https://www3.nd.edu/~rwilliam/stats1/x13.pdf)**
 
@@ -462,6 +477,7 @@ when we have a fair coin(p = 0.5), the probability of getting one sequence of 4 
 1/0.5^4*(1-0.5)^6 =
 
 
+___
 
 
 
