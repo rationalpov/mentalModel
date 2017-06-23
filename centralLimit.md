@@ -1,4 +1,3 @@
-=
 # Mental Model:Central Limit Theorem
 
 ## Discipline:Mathematics
