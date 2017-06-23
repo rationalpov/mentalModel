@@ -150,7 +150,7 @@ This blog is try to utilize Richard Freeman and Mungers's advice to create a men
 ### Discipline Psychology
 
 * [Game Theory](discipline_psychology,_game_theory.md)
-* [human psychology bias](./discipline_psychology_,_human_psychology_bias.md)
+* [human psychology bias](humanPsychology.md)
 
 
 
