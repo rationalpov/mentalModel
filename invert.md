@@ -1,5 +1,4 @@
-#
-Mental Model Name:Invert
+# Mental Model Name:Invert
 
 # Discipline:Mathematics
 
@@ -11,6 +10,9 @@ basic Arithmetic
 
 ### Peer Lattice:
 
+The Premortem
+
+___
 
 > "Invert, always invert" - Carl Gustav Jacob Jacobi
 
@@ -42,6 +44,15 @@ Once you have defined your non-goal, you are ready for step 2.
 (2) Solve. Step 2 is the analysis phase. Here, we ask: What causes the non-goal? In our example, the non-goal is getting fat. Weight gain can be caused by: over-eating, lack of exercise, drinking too many calories, etc. The object is to determine the primary factors that contribute to your non-goal.
 
 (3) Re-invert. Once you have your solution set, you re-invert by asking: How can I avoid that? If the easiest way for you to achieve your non-goal is by overeating, then to improve your chances for losing weight, you need to focus on strategies that help you avoid overeating.
+
+
+### [The premortem](https://www.edge.org/response-detail/27174)
+
+> Before a major decision is taken, say to launch a new line of business, write a book, or form a new alliance, those familiar with the details of the proposal are given an assignment. Assume we are at some time in the future when the plan has been implemented, and the outcome was a disaster. Write a brief history of that disaster. 
+
+
+
+
 
 **Example**
 
