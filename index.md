@@ -144,7 +144,7 @@ This blog is try to utilize Richard Freeman and Mungers's advice to create a men
 ### Discipline Economics
 
 * [oppotunity cost](./discipline_economics,oppotunity_cost.md)
-* advantage of scale
+* [advantage of scale](costOfScale.md)
 
 
 ### Discipline Psychology
