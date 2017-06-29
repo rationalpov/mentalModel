@@ -31,7 +31,15 @@ Imaging a cube filled with water, with 1cm in lengh, the cube will has a surface
 
 if we scale the cube to 10cm in lengh, the cube will has a surface area of 600cm, and weight 1000 g
 
-we can see from this example, the lengh scales 10X, the surface area scales 100X, and weight, scales to 1000X
+we can see from this example, the lengh scales 10X, the surface area scales 100X, and size, scales to 1000X
+
+In our physical world, Strengh is a function of objects cross area. but the weight is a function of the size.
+
+That means if we scale an object 10 times in length, its relative strengh will decrease by 10 times.
+
+
+
+
 
 
 
