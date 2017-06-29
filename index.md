@@ -143,13 +143,13 @@ This blog is try to utilize Richard Freeman and Mungers's advice to create a men
 
 ### Discipline Economics
 
-* [oppotunity cost](./discipline_economics,oppotunity_cost.md)
+* [oppotunity cost](OpportunityCost.md)
 * [advantage of scale](costOfScale.md)
 
 
 ### Discipline Psychology
 
-* [Game Theory](discipline_psychology,_game_theory.md)
+* [Game Theory](gameTheory.md)
 * [human psychology bias](humanPsychology.md)
 
 
