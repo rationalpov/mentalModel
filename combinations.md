@@ -479,7 +479,7 @@ when we have a fair coin(p = 0.5), the probability of getting one sequence of 4 
 
 ___
 
-# Example [Amazon Tax and AWS](https://stratechery.com/2016/the-amazon-tax/)
+Example [Amazon Tax and AWS](https://stratechery.com/2016/the-amazon-tax/)
 
 In his excellement book The everything store, Brad Stone mentioned how Amazon CEO, Jeff Bezos solve this one critical problem :
 
