@@ -108,8 +108,8 @@ This blog is try to utilize Richard Freeman and Mungers's advice to create a men
 
 * [basic arithmetic](basicArithemetic.md)
 * [size and Scale](sizeAndScale.md)
-* [invert](./discipline_mathematics,invert.md)
-* [compound interest](./discipline_mathematics,compound_interest.md)
+* [invert](invert.md)
+* [compound interest](compoundInterest.md)
 * [elementary math of permutations and combinations](combinations.md)
 * [basic probability, law of big number](lawOfBigNumbers.md)
 * [basic probability, central limit theorem](centralLimit.md)
