@@ -35,8 +35,15 @@ we can see from this example, the lengh scales 10X, the surface area scales 100X
 
 In our physical world, Strengh is a function of objects cross area. but the weight is a function of the size.
 
-That means if we scale an object 10 times in length, its relative strengh will decrease by 10 times.
+That means if we scale an ant by 10 times, its legs cross section area only increase by 100 times, but need to support 1000 times the current weight. 
 
+This scaling effect has huge implication on the things around us:
+
+Why Elephant has huge ears?
+
+![elephant](http://res.freestockphotos.biz/pictures/10/10006-an-elephant-in-the-wild-pv.jpg)
+
+it is because elephant is warm blooded,
 
 
 
