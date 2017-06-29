@@ -9,6 +9,9 @@ Basic Arithmetic
 
 ### Down Stream Lattice
 
+[Economics: Advantage of Scale](costOfScale.md)
+
+
 ### Peer Lattice:
 
 # Introductions
