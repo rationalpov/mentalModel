@@ -10,8 +10,8 @@ Mathematics
 
 ### Down Stream Lattice
 
-Mental Model, Engineering, Feedback loops
-
+20/80 law
+power law
 
 ### Peer Lattice:
 
