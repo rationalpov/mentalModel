@@ -479,6 +479,22 @@ when we have a fair coin(p = 0.5), the probability of getting one sequence of 4 
 
 ___
 
+# Example [Amazon Tax and AWS](https://stratechery.com/2016/the-amazon-tax/)
+
+In his excellement book The everything store, Brad Stone mentioned how Amazon CEO, Jeff Bezos solve this one critical problem :
+
+> various teams in the company were all served by one monolithic technical team that had to authorize and spin up resources for every project. 
+
+> At the same time, Bezos became enamored with a book called Creation, by Steve Grand, the developer of a 1990s video game called Creatures that allowed players to guide and nurture a seemingly intelligent organism on their computer screens. Grand wrote that his approach to creating intelligent life was to focus on designing simple computational building blocks, called primitives, and then sit back and watch surprising behaviors emerge.
+
+> The book…helped to crystallize the debate over the problems with the company’s own infrastructure. If Amazon wanted to stimulate creativity among its developers, it shouldn’t try to guess what kind of services they might want; such guesses would be based on patterns of the past. Instead, it should be creating primitives — the building blocks of computing — and then getting out of the way. In other words, it needed to break its infrastructure down into the smallest, simplest atomic components and allow developers to freely access them with as much flexibility as possible.
+
+Bezos use the idea of basic combination to resolve this problem. Amazon should not try to build a super efficient monolithic techinical team, but instead build multiple primitives services, which is an atomic building block and can be used by all members of the company, and even outsiders, as a service.
+
+by offering as a service to the public, it lollapaloozaed another mental model, benefit of scales from Economics. 
+
+
+
 
 
 
