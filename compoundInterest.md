@@ -90,7 +90,9 @@ The signature of Compound Interest occurring is the famous hockey stick diagram:
 
 ![power law](https://upload.wikimedia.org/wikipedia/commons/8/8a/Long_tail.svg)
 
-__
+___
+
+
 Examples of power law:([wiki page](https://en.wikipedia.org/wiki/Power_law))
 
 > More than a hundred power-law distributions have been identified in physics (e.g. sandpile avalanches), biology (e.g. species extinction and body mass), and the social sciences (e.g. city sizes and income).[14] Among them are:
