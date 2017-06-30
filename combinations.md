@@ -52,15 +52,17 @@ trace it down to 3 hats, 4 shirts, 5 pants, 4 pair of socks, 2 pair of shoes wil
 
 Thats the attribution of Occam's razor, Among competing hypotheses, the one with the fewest assumptions should be selected, because the one with the fewest assumptions, it is closer to the seed element of combinations.
 
-#### Analysis from First Principles. 
+#### Analysis from First Principles, how Richard Feynman and Elon Musk do analysis
 
 Elon Musk Explained how to think in first principle in this short video
 
 ![[youtube link]((https://www.youtube.com/watch?v=NV3sBlRgzTI)](https://dl.dropboxusercontent.com/spa/8a95omz6xkznrmw/eekhqava.png)
 
+> "I think it's also important to reason from first principles rather than by analogy so the normal way that we conduct our lives is we we we reason by analogy it's we're doing this because it's like something else that was done"
 
+> "(first principle) is kind of a physics way of looking at the world and what that really means is you kind of boil things down to the most fundamental truths and and say okay what do we sure is true or sure as possible is true and then reason up from there that takes a lot more mental energy"
 
-In fact, Richard Reynman thought the most valuable piece of 20th century physic, is this one piece of information, the root element.
+In fact, Richard feynman thought the most valuable piece of 20th century physic, is this one piece of information, the root element.
 
 > If, in some cataclysm, all of scientific knowledge were to be destroyed, and only one sentence passed on to the next generations of creatures, what statement would contain the most information in the fewest words? I believe it is the atomic hypothesis (or the atomic fact, or whatever you wish to call it) that all things are made of atoms—little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another. - Richard Feynman
 
