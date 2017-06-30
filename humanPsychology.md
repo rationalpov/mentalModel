@@ -1,7 +1,5 @@
-# Mental Model Name:System 2, Human psychology bias
-#Discipline: Psychology
-#Lattice Rank : System 2
-
+# Mental Model Name: System 2, Human psychology bias
+# Discipline: Psychology
 
 [charlie mungers summary on this][1]
 
@@ -614,6 +612,10 @@ Interact with Envy/Jealousy and Deprival Superreaction Tendency.
 
 #### 16 contrast-mis-reaction tendency ( Anchoring)
 
+##### peer Lattice:
+
+Social Science: Broken Window theory
+
 **What to Predict:**
 
 Human Sesory system is using contrast rather than absolute scientific units to measure
@@ -635,6 +637,10 @@ Before Making big purchasing Befor Making decisions about life event
 * then offer 85%,95%,100% of your target price
 
 * drop an non-monetary item with your final 100% target
+
+___ Example: Broken Windows theory
+
+> The broken windows theory is a criminological theory of the norm-setting and signaling effect of urban disorder and vandalism on additional crime and anti-social behavior. The theory states that maintaining and monitoring urban environments to prevent small crimes such as vandalism, public drinking, and toll-jumping helps to create an atmosphere of order and lawfulness, thereby preventing more serious crimes from happening.
 
 
 **Antidote to yourself:**
