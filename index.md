@@ -1,9 +1,6 @@
 # What are mental models, and why it is important ?
 
-![mental model](https://dl.dropboxusercontent.com/spa/8a95omz6xkznrmw/3l_e7kvf.png)
-
-Photos by [Rosenfeld Media](https://www.flickr.com/photos/rosenfeldmedia/2141071329/in/photolist-4eRjGU-9vR4hi-4hQ1jW-vSWTgw-4eMopn-4eRmPj-8S5nfv-4eMork-obad7D-nrzjH-69bkE3-9hLGic-9vU5J9-4eMos2-7wTr3X-oCWty9-4eRkPh-82BVKm-4gcxUV-G8Hawg-4eMn3z-4hPHYo-4eRmFj-4eMmCc-FdfKqu-FZxvmG-aER2EZ-4eMnZa-88fhph-4eMo7a-FdrrDp-4eRkbJ-3o89ER-G2RhNM-wMDsWY-4eRkih-4eMSnx-4eMJjZ-F8ymR-4g87qm-4eMnX4-4eMmwp-4uVYGd-8wNc9Y-aEUS87-4eRkkq-h3DfMW-h3CRca-FdgHsQ-aEUSmL/)
-
+![mental model](https://upload.wikimedia.org/wikipedia/commons/9/9f/Phrenology.png)
 
 Why is it important ?
 
