@@ -10,9 +10,11 @@ Basic Arithmetic
 
 premature Optimization
 
+
 ### Peer Lattice:
 
 Occam's razor
+Analysis from first principle
 
 
 # Introduction
@@ -42,13 +44,19 @@ by doing this way, you can:
 * Make a one way mirror, ie. **encryption**, make it very difficult to reverse engineer and know your original combinational set.
 
 
-The other way is invert.
+### The other way is invert, try to break down a complex sysstem into its components.
 
+#### Occam's razor 
 Understand the Combinatorial explosion by trying to analyses and isolate things back to its elements. It is very difficult to analyse 480 ways of dressing, but
 trace it down to 3 hats, 4 shirts, 5 pants, 4 pair of socks, 2 pair of shoes will be much easier.
 
 Thats the attribution of Occam's razor, Among competing hypotheses, the one with the fewest assumptions should be selected, because the one with the fewest assumptions, it is closer to the seed element of combinations.
 
+#### Analysis from First Principles. 
+
+Elon Musk Explained how to think in first principle in this short video
+
+![[youtube link](https://dl.dropboxusercontent.com/spa/8a95omz6xkznrmw/eekhqava.png)](https://www.youtube.com/watch?v=NV3sBlRgzTI)
 
 
 
