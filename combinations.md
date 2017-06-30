@@ -56,7 +56,7 @@ Thats the attribution of Occam's razor, Among competing hypotheses, the one with
 
 Elon Musk Explained how to think in first principle in this short video
 
-![[youtube link](https://dl.dropboxusercontent.com/spa/8a95omz6xkznrmw/eekhqava.png)](https://www.youtube.com/watch?v=NV3sBlRgzTI)
+![[youtube link]((https://www.youtube.com/watch?v=NV3sBlRgzTI)](https://dl.dropboxusercontent.com/spa/8a95omz6xkznrmw/eekhqava.png)
 
 
 
