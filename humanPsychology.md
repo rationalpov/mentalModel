@@ -622,6 +622,9 @@ Human Sesory system is using contrast rather than absolute scientific units to m
 
 Human cognition system is using contrast for measuring up too.
 
+> With the same information being used as a base, the ‘frame’ surrounding the issue can change the reader’s perception without having to alter the actual facts
+
+
 **When to use it**
 
 Before Making big purchasing Befor Making decisions about life event
