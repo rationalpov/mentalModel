@@ -11,6 +11,7 @@ Mathematics
 ### Down Stream Lattice
 
 Pareto principle : 20/80 law
+Psychrology: Lollapalooza effect
 
 ### Peer Lattice:
 
@@ -89,6 +90,13 @@ The signature of Compound Interest occurring is the famous hockey stick diagram:
 > In statistics, a power law is a functional relationship between two quantities, where a relative change in one quantity results in a proportional relative change in the other quantity, independent of the initial size of those quantities: one quantity varies as a power of another. For instance, considering the area of a square in terms of the length of its side, if the length is doubled, the area is multiplied by a factor of four
 
 ![power law](https://upload.wikimedia.org/wikipedia/commons/8/8a/Long_tail.svg)
+
+
+## Peer Lattice: Lollapalooza effect:
+
+Charlie Munger uses the term "Lollapalooza effect" to describe the effect of multiple mental model working at the same time in the same direction, that results in extreme compounding effect and thus extreme results
+
+
 
 ___
 
