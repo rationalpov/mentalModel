@@ -1,3 +1,45 @@
+# Mental Model: Critical Mass
+
+## Discipline: Physics
+
+### Up Stream Lattice
+
+Math: compound interest
+Eng: feedback System
+
+### Down Stream Lattice
+
+### Peer Lattice:
+
+Chemistry: [Activation Energy](https://en.wikipedia.org/wiki/Activation_energy)
+
+
+# Introductions
+
+> A critical mass is the smallest amount of fissile material needed for a sustained nuclear chain reaction. - wikipedia
+
+![critical mass wiki](https://upload.wikimedia.org/wikipedia/commons/1/13/Partially-reflected-plutonium-sphere.jpeg)
+
+it describes the phenomenon of a system passes the inflection point and reaches positive feedback.
+
+
+## How to use this mental Model:
+
+
+
+### Conditions:
+
+### Predictions:
+
+### Examples:
+
+
+
+
+
+
+
+
 __
 
 [Reynolds Number](https://www.edge.org/response-detail/27056)
