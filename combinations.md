@@ -8,13 +8,13 @@ Basic Arithmetic
 
 ### Down Stream Lattice
 
-premature Optimization
+* premature Optimization
 
 
 ### Peer Lattice:
 
-Occam's razor
-Analysis from first principle
+* Occam's razor
+* Analysis from first principle
 
 
 # Introduction
