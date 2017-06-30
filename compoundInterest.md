@@ -10,11 +10,11 @@ Mathematics
 
 ### Down Stream Lattice
 
-20/80 law
-power law
+Pareto principle : 20/80 law
 
 ### Peer Lattice:
 
+Power Law
 
 
 # Introduction
@@ -80,6 +80,28 @@ You can use law of 72 to calculate how fast it can grown.
 The signature of Compound Interest occurring is the famous hockey stick diagram:
 
 ![world population](http://www.marketcalls.in/wp-content/uploads/2010/11/Wordl-Population.jpg)
+
+
+
+## Peer Lattice: Power Law:
+
+
+> In statistics, a power law is a functional relationship between two quantities, where a relative change in one quantity results in a proportional relative change in the other quantity, independent of the initial size of those quantities: one quantity varies as a power of another. For instance, considering the area of a square in terms of the length of its side, if the length is doubled, the area is multiplied by a factor of four
+
+![power law](https://upload.wikimedia.org/wikipedia/commons/8/8a/Long_tail.svg)
+
+__
+Examples of power law:([wiki page](https://en.wikipedia.org/wiki/Power_law))
+
+> More than a hundred power-law distributions have been identified in physics (e.g. sandpile avalanches), biology (e.g. species extinction and body mass), and the social sciences (e.g. city sizes and income).[14] Among them are:
+
+The Angstrom exponent in aerosol optics
+The frequency-dependency of acoustic attenuation in complex media
+The Stevens' power law of psychophysics
+The Stefan–Boltzmann law
+The input-voltage–output-current curves of field-effect transistors and vacuum tubes approximate a square-law relationship, a factor in "tube sound".
+Square-cube law (ratio of surface area to volume)
+Kleiber's law relating animal metabolism to size, and allometric laws in general
 
 
 
