@@ -66,6 +66,44 @@ In fact, Richard feynman thought the most valuable piece of 20th century physic,
 
 > If, in some cataclysm, all of scientific knowledge were to be destroyed, and only one sentence passed on to the next generations of creatures, what statement would contain the most information in the fewest words? I believe it is the atomic hypothesis (or the atomic fact, or whatever you wish to call it) that all things are made of atoms—little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another. - Richard Feynman
 
+
+
+___
+
+Example: [Premature optimization](https://www.edge.org/response-detail/27063)
+
+business  is facing  Nth degree of combination or even permuations, if he or she pick the right combination, and optimize accordingly , it will reach a state of optimal profits, or optimal fitness, or in another term, sucess.
+
+But success is also come with a curse, by optimizing towards success, you cut off all other combinations and thus risk of ommiting a much bigger success.
+
+In computer science, its termed the hill climbing problem
+
+
+![hill climbing](https://upload.wikimedia.org/wikipedia/commons/d/d5/Hill_Climbing_with_Simulated_Annealing.gif)
+
+
+___
+
+Example [Amazon Tax and AWS](https://stratechery.com/2016/the-amazon-tax/)
+
+In his excellement book The everything store, Brad Stone mentioned how Amazon CEO, Jeff Bezos solve this one critical problem :
+
+> various teams in the company were all served by one monolithic technical team that had to authorize and spin up resources for every project. 
+
+> At the same time, Bezos became enamored with a book called Creation, by Steve Grand, the developer of a 1990s video game called Creatures that allowed players to guide and nurture a seemingly intelligent organism on their computer screens. Grand wrote that his approach to creating intelligent life was to focus on designing simple computational building blocks, called primitives, and then sit back and watch surprising behaviors emerge.
+
+> The book…helped to crystallize the debate over the problems with the company’s own infrastructure. If Amazon wanted to stimulate creativity among its developers, it shouldn’t try to guess what kind of services they might want; such guesses would be based on patterns of the past. Instead, it should be creating primitives — the building blocks of computing — and then getting out of the way. In other words, it needed to break its infrastructure down into the smallest, simplest atomic components and allow developers to freely access them with as much flexibility as possible.
+
+Bezos use the idea of basic combination to resolve this problem. Amazon should not try to build a super efficient monolithic techinical team, but instead build multiple primitives services, which is an atomic building block and can be used by all members of the company, and even outsiders, as a service.
+
+by offering as a service to the public, it lollapaloozaed another mental model, benefit of scales from Economics. 
+
+
+
+
+
+
+
 ### Combination, Permutations and Cartesian Products:
 
 #### One group case
@@ -210,21 +248,6 @@ couple scenarios:
 * If results is combination, scale the number down by divide the base permutation by r!
 
 * If there is multiple group combination, multiple the base permuations.
-
-___
-
-[Premature optimization](https://www.edge.org/response-detail/27063)
-
-business  is facing  Nth degree of combination or even permuations, if he or she pick the right combination, and optimize accordingly , it will reach a state of optimal profits, or optimal fitness, or in another term, sucess.
-
-But success is also come with a curse, by optimizing towards success, you cut off all other combinations and thus risk of ommiting a much bigger success.
-
-In computer science, its termed the hill climbing problem
-
-
-![hill climbing](https://upload.wikimedia.org/wikipedia/commons/d/d5/Hill_Climbing_with_Simulated_Annealing.gif)
-
-
 
 
 ### Examples:
@@ -485,23 +508,6 @@ p^4q^6
 when we have a fair coin(p = 0.5), the probability of getting one sequence of 4 Heads and 6 tails is:
 
 1/0.5^4*(1-0.5)^6 =
-
-
-___
-
-Example [Amazon Tax and AWS](https://stratechery.com/2016/the-amazon-tax/)
-
-In his excellement book The everything store, Brad Stone mentioned how Amazon CEO, Jeff Bezos solve this one critical problem :
-
-> various teams in the company were all served by one monolithic technical team that had to authorize and spin up resources for every project. 
-
-> At the same time, Bezos became enamored with a book called Creation, by Steve Grand, the developer of a 1990s video game called Creatures that allowed players to guide and nurture a seemingly intelligent organism on their computer screens. Grand wrote that his approach to creating intelligent life was to focus on designing simple computational building blocks, called primitives, and then sit back and watch surprising behaviors emerge.
-
-> The book…helped to crystallize the debate over the problems with the company’s own infrastructure. If Amazon wanted to stimulate creativity among its developers, it shouldn’t try to guess what kind of services they might want; such guesses would be based on patterns of the past. Instead, it should be creating primitives — the building blocks of computing — and then getting out of the way. In other words, it needed to break its infrastructure down into the smallest, simplest atomic components and allow developers to freely access them with as much flexibility as possible.
-
-Bezos use the idea of basic combination to resolve this problem. Amazon should not try to build a super efficient monolithic techinical team, but instead build multiple primitives services, which is an atomic building block and can be used by all members of the company, and even outsiders, as a service.
-
-by offering as a service to the public, it lollapaloozaed another mental model, benefit of scales from Economics. 
 
 
 
