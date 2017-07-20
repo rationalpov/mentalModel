@@ -503,6 +503,22 @@ He mentions as a FBI hostage neogotiator, one of the techniques to gather trust 
 
 Repeat 3-4 **words** from the other party, and add a few second of silence and will work magics.
 
+permission based marketing:
+
+[Seth Godin](http://sethgodin.typepad.com/seths_blog/2008/01/permission-mark.html) used the term permission based marketing to frame how marketer are using this technique to sale.
+> Permission marketing is the privilege (not the right) of delivering anticipated, personal, and relevant messages to people who actually want to get them.
+
+> It recognizes the new power of the best consumers to ignore marketing. It realizes that treating people with respect is the best way to earn their attention.
+
+> Pay attention is a key phrase here, because permission marketers understand that when someone chooses to pay attention they are actually paying you with something precious…
+
+> Real permission works like this: if you stop showing up, people complain, they ask where you went…
+
+> Permission is like dating. You do not start by asking for the sale at first impression. You earn the right, over time, bit by bit…
+
+> In order to get permission, you make a promise. You say, “I will do x, y and z, I hope you will give me permission by listening.” And then, this is the hard part, that's all you do. You do not assume you can do more. You do not sell the list or rent the list or demand more attention…
+
+
 ___
 
 Example: Benfranklin Techinque:
