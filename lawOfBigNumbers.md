@@ -1,5 +1,5 @@
 #
-Mental Model: Law of big numbers
+Mental Model: Law of big numbers (regression to the mean)
 
 ## Discipline: Mathematics
 
