@@ -107,6 +107,19 @@ This illustrated why wisdom of crowds often faileds in stock market crash etc, b
 
 ___
 
+### the law of small numbers
+
+the invert of law of large number is the law of small numbers. law of small numbers can be a tempting illution when you saw a clear pattern emerged. but it is often just ..illustion.
+
+
+
+> In June 1944, Germany flew several raids on London. War experts plotted the position of each bomb as it fell, and noticed one cluster near Regent’s Park, and another along the banks of the Thames. This clustering concerned them, because it implied that the German military had designed a new bomb that was more accurate than any existing bomb. In fact, the Luftwaffe was dropping bombs randomly, aiming generally at the heart of London but not at any particular location over others. What the experts had seen were clusters that occur naturally through random processes—misleading noise masquerading as a useful signal.  -- [Adam Alter](https://www.edge.org/response-detail/27024)
+
+> Of course, the law of small numbers applies to more than military tactics. It explains the rise of stereotypes (concluding that all people with a particular trait behave the same way); the dangers of relying on a single interview when deciding among job or college applicants (concluding that interview performance is a reliable guide to job or college performance at large); and the tendency to see short-term patterns in financial stock charts when in fact short-term stock movements almost never follow predictable patterns. The solution is to pay attention not just to the pattern of data, but also to how much data you have. Small samples aren’t just limited in value; they can be counterproductive because the stories they tell are often misleading.  -- [Adam Alter](https://www.edge.org/response-detail/27024)
+
+
+___
+
 ### how to build an effective team
 
 Charles Duhigg mentions how effective team works in his excellent book [Smarter Faster Better: The Secrets of Being Productive in Life and Business](https://www.amazon.com/Smarter-Faster-Better-Productive-Business-ebook/dp/B00Z3FRYB0)
