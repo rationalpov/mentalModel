@@ -41,6 +41,7 @@ Individuals must be able to reproduce
 * Evolution is triggered by seperation
 * The bigger the space(geo) is, it can evolute more complex and specicalized species.
 
+![evolution path](https://upload.wikimedia.org/wikipedia/commons/f/fe/Visualization_of_a_population_evolving_in_a_static_fitness_landscape.gif)
 
 
 ### Examples:
