@@ -503,6 +503,34 @@ He mentions as a FBI hostage neogotiator, one of the techniques to gather trust 
 
 Repeat 3-4 **words** from the other party, and add a few second of silence and will work magics.
 
+___
+
+Example: Benfranklin Techinque:
+
+Benfranklin mentioned how he used this techique to turn a rival into a long term friendship:
+
+He knows his rival build a small library and posses a valuable out of print book, he send him a note asking if he can do Benfranklin a favor, to lend his book for a few days. The rival agrees, then Benfranklin return the book in a week and with a note of expressing appreciation.
+
+After than the rival just turn 180% degree became friend of Ben franklin, just like magic.
+
+___
+
+![the trojan horse](https://upload.wikimedia.org/wikipedia/commons/4/48/The_Procession_of_the_Trojan_Horse_in_Troy_by_Giovanni_Domenico_Tiepolo.jpg)
+
+
+This trojan horse technique also one of the most effective sales scheme.
+
+> Offering the first chapter of a book for free to people who join an email list — Having read the chapter and received more emails which connect them to the author, people are more likely to buy the full book than they would have been if they had only seen an advert.
+Creating free high-quality blog content for an audience to enjoy — Once people are interested in the blogger's voice and expertise, the marketing can begin. Many people will at some point want to support the person whose work they have been consuming for free. This support might include buying courses, books, or consulting services or donating to a Patreon page. We developed the learning community as not only a bunch of extras for people but also a means to support the free content we provide.
+Writing a book detailing an expert's specialized knowledge — While sales of the book are often not high, having it published benefits the expert's business. For example, Ryan Holiday has stated that his books have led to more income from speaking and consulting than from actual book sales.
+Making the most income from revenue streams which do not appear to be the main objective of a business — For example, high-fashion brands often make more money from perfume than from clothing, cinemas rely on sales of popcorn and drinks, and some restaurants profit predominantly from sales of alcohol.
+Creating viral branded content which people share and engage with due to its being interesting and often amusing — For example, just try to watch the Android “Friends Furever” video without forwarding it to at least one person. The adorable video wraps up a marketing message, making people more likely to pay attention to it.  -- [The Trojan Horse: How Marketers, Retailers, and Artists Conceal Their True Intents](https://www.farnamstreetblog.com/2017/07/trojan-horse/)
+
+___
+
+Example: Permission marketing:
+
+
 
 **Use honesty to fix someone you can't server:**
 
