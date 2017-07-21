@@ -96,7 +96,21 @@ Also from Richard Freeman:
 * Identify Gaps and Go Back to The Source Material
 * Review and Simplify
 
-This blog is try to utilize Richard Freeman and Mungers's advice to create a mental lattice.
+This blog is try to utilize Richard Freeman and Mungers's advice to create a mental lattice. 
+
+## what mental model should I learn first ?
+
+> People underrate the importance of a few simple big ideas – the chief lesson is that a few big ideas really work. --charlie munger
+
+what is a big idea ? big idea means the most fundamental mental model, the one you will see the most often. for example. simple algebra.
+
+___
+
+## pull request is welcome  ##
+
+___
+
+
 
 
 ## Current List of mental models ( Orders Matter )
