@@ -96,8 +96,15 @@ Why it works ?
 
 * Certainty, no subject thing
 
+[Example: Elon Musk, why Cost + percentage outsourcing will not work, and how to do it properly](https://www.youtube.com/watch?v=OYJ89vE-QfQ&feature=youtu.be&t=45m21s)
 
+![Elon musk ](https://dl.dropboxusercontent.com/spa/8a95omz6xkznrmw/0rhmub4h.png)
 
+Why cost +% outsource contracting, you will send the contracter to maximize the cost, and the contractor will get reward to maximize the contract, and got punished if they dont
+
+how to counter:
+
+setup mile stone based contracting, at least has two compeitior, and need to have concrete mile stone( power point dont count)
 
 
 
