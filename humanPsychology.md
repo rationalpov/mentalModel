@@ -659,6 +659,15 @@ Interact with Envy/Jealousy and Deprival Superreaction Tendency.
 
 * Learn how to ignore the examples from others when they are wrong
 
+___
+
+Example: How Romanian dictator Nicolae Ceauşescu got removed from power, live on television because of social proof and started with a single 'boo' from the crowd
+
+[![](https://dl.dropboxusercontent.com/spa/8a95omz6xkznrmw/8lwr-qfk.png)](https://www.youtube.com/watch?v=wWIbCtz_Xwk)
+
+
+
+
 * * *
 
 #### 16 contrast-mis-reaction tendency ( Anchoring)
