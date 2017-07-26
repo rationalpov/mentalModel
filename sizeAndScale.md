@@ -39,13 +39,13 @@ That means if we scale an ant by 10 times, its legs cross section area only incr
 
 This scaling effect has huge implication on the things around us:
 
-Why Elephant has huge ears?
+Why Elephant has huge ears but mice has tiny ones ?
 
 ![elephant](http://res.freestockphotos.biz/pictures/10/10006-an-elephant-in-the-wild-pv.jpg)
 
-it is because elephant is warm blooded,
+it is because both mice and elephant are warm blooded, but as elephant's [average weight](http://mste.illinois.edu/malcz/DATA/BIOLOGY/Animals.html) is about 110739X of mouse, its surface area is scale at power 2/3 only 2306 times of mouse, but the bady heat is scale at power 3/4, so it generate 6070 times more heat, so it need extra surface area to dissipate the heat 
 
-
+ 
 
 
 
