@@ -125,6 +125,7 @@ ___
 * [basic probability, law of big number](lawOfBigNumbers.md)
 * [basic probability, central limit theorem](centralLimit.md)
 * [basic probability, bayes theorem](bayes-theorem.md)
+* [37 % rule(optimal stop)](37percentrule.md)
 * accounting
 
 ### Discipline Engineering
