@@ -46,6 +46,11 @@ The secret of get a higher return is to get a alternative with high returns.
 Examples, [Negotiating](https://www.farnamstreetblog.com/page/2/)
 
 
+___
+
+Example: 
+
+> My idea of shooting fish in a barrel, by the way, is to drain the barrel first. --[Charlie Munger](https://www.forbes.com/sites/phildemuth/2015/04/07/charlie-mungers-2015-daily-journal-annual-meeting-part-1/#7a10055f1835)
 
 
 
