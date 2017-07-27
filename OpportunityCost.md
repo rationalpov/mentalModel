@@ -50,7 +50,10 @@ ___
 
 Example: 
 
-> My idea of shooting fish in a barrel, by the way, is to drain the barrel first. --[Charlie Munger](https://www.forbes.com/sites/phildemuth/2015/04/07/charlie-mungers-2015-daily-journal-annual-meeting-part-1/#7a10055f1835)
+> My idea of shooting fish in a barrel, by the way, is to drain the barrel first. 
+> It's really easy, then you shoot, preferably with a big shotgun
+
+-- [Charlie Munger](https://www.forbes.com/sites/phildemuth/2015/04/07/charlie-mungers-2015-daily-journal-annual-meeting-part-1/#7a10055f1835)
 
 
 
