@@ -10,6 +10,8 @@
 
 ### Down Stream Lattice
 
+[Laplace's Law](https://en.wikipedia.org/wiki/Rule_of_succession)
+
 ### Peer Lattice:
 
 [Basic Probability, central limit theorem](discipline_mathematics,basic_probability,_central_.md)
@@ -939,7 +941,7 @@ The data:
 
 ___
 
-[Beta Distribution](http://stats.stackexchange.com/questions/47771/what-is-the-intuition-behind-beta-distribution)
+ ### [Beta Distribution](http://stats.stackexchange.com/questions/47771/what-is-the-intuition-behind-beta-distribution)
 
 Normal Distribtion is the heart of frequencist core(Central Limit Theorem), And Normal Distribution Diagram is a probability density diagram, so once the mean and standard deviation is known, we can use inverse lookup the probability of a given x value.
 
@@ -953,6 +955,22 @@ In plain words, beta distribution is the unknown distribution, probably x distri
 
 >[The short version is that the Beta distribution can be understood as representing a distribution of probabilities- that is, it represents all the possible values of a probability when we don't know what that probability is. Here is my favorite intuitive explanation of this:
 In Practice, Beta Distribution Function is used with Baysian Formular for Binomial Events(1/0):](http://stats.stackexchange.com/questions/47771/what-is-the-intuition-behind-beta-distribution)
+
+The idea of beta distribution is illustrated by Richard Price, from [Algorithem to live by](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365/ref=sr_1_sc_1?ie=UTF8&qid=1501198340&sr=8-1-spell&keywords=algorimthm+to+live+by) a friend of Thomas Bayes. In his essay, price explains the idea of beta distribution as the follows:
+
+> Let us then imagine a person present at the drawing of a lottery, who knows nothing of its scheme or of the proportion of Blanks to Prizes in it. Let it further be supposed, that he is obliged to infer this from the number of blanks he hears drawn compared with the number of prizes; and that it is enquired what conclusions in these circumstances he may reasonably make.
+
+Brian Christian and Tom Griffiths further explains Bayes ingenious approach:
+
+> Bayes’s critical insight was that trying to use the winning and losing tickets we see to figure out the overall ticket pool that they came from is essentially reasoning backward. And to do that, he argued, we need to first reason forward from hypotheticals. In other words, we need to first determine how probable it is that we would have drawn the tickets we did if various scenarios were true. This probability— known to modern statisticians as the “likelihood”— gives us the information we need to solve the problem. For instance, imagine we bought three tickets and all three were winners. Now, if the raffle was of the particularly generous sort where all the tickets are winners, then our three-for-three experience would of course happen all of the time; it has a 100% chance in that scenario. If, instead, only half of the raffle’s tickets were winners, our three-for-three experience would happen 1⁄2 × 1⁄2 × 1⁄2 of the time, or in other words 1⁄8 of the time. And if the raffle rewarded only one ticket in a thousand, our outcome would have been incredibly unlikely: 1⁄1,000 × 1⁄1,000 × 1⁄1,000, or one in a billion. Bayes argued that we should accordingly judge it to be more probable that all the raffle tickets are winners than that half of them are, and in turn more probable that half of them are than that only one in a thousand is. Perhaps we had already intuited as much, but Bayes’s logic offers us the ability to quantify that intuition. All things being equal, we should imagine it to be exactly eight times likelier that all the tickets are winners than that half of them are— because the tickets we drew are exactly eight times likelier (100% versus one-in-eight) in that scenario. Likewise, it’s exactly 125 million times likelier that half the raffle tickets are winners than that there’s only one winning ticket per thousand, which we know by comparing one-in-eight to one-in-a-billion. This is the crux of Bayes’s argument. Reasoning forward from hypothetical pasts lays the foundation for us to then work backward to the most probable one.
+
+If you buy only 3 lottery tickets and they all won, the winning chance of the lottry is far more likely to be 100% than 1 in 1000. 
+
+beta distribution is the mathmatical represention of this probability, in this case, alpha = 3 and beta = 0, the implied probability distribution of the true lottery winning rate is like this disagram, very close to 100%
+
+![alpha = 3, beta = 0.00001](https://dl.dropboxusercontent.com/spa/8a95omz6xkznrmw/88g8so16.png)
+
+
 
 The more commonly used beta distribution is beta distribution with likelyhood of binomial distribution.
 
@@ -1019,6 +1037,16 @@ David Robinson also explained beta distribution very well in this [post](http://
 
 >Why is your batting average in the first few hits not a good predictor of your eventual batting average? When a player's first at-bat is a strikeout, why does no one predict that he'll never get a hit all season? Because we're going in with prior expectations. We know that in history, most batting averages over a season have hovered between something like .215 and .360, with some extremely rare exceptions on either side. We know that if a player gets a few strikeouts in a row at the start, that might indicate he'll end up a bit worse than average, but we know he probably won't deviate from that range.
 
+
+### Laplace's Law
+
+Laplace is a french mathermatian born in 1749, he invented an amazingly simple scheme to apply Bayes theorom and use it with real world small data set.
+
+P(X_{{n+1}}=1\mid X_{1}+\cdots +X_{n}=s)={s+1 \over n+2}.
+
+> for any possible drawing of w winning tickets in n attempts, the expectation is simply the number of wins plus one, divided by the number of attempts plus two: (w+1) ⁄( n+2).
+
+if we want to know the probability of how likely the sun will rise tomorrow, since n is about 1.6 trillion days and the win is also 1.6 trillion days, the probability is very, very close 1.
 
 
 ___
@@ -1141,6 +1169,7 @@ P( 40% H | tail ) = P(tail| 40%H) * P(40%H)/P(tail)
 
 [Example: German Tank Problem](https://www.amazon.com/Bayes-Theorem-Examples-Intuitive-Guide-ebook/dp/B01AZXQY1K/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1474595628&sr=1-1&keywords=bayes+theorem+examples)
 
+> during World War II, when the Allies sought to estimate the number of tanks being produced by Germany. Purely mathematical estimates based on captured tanks’ serial numbers predicted that the Germans were producing 246 tanks every month, while estimates obtained by extensive (and highly risky) aerial reconnaissance suggested the figure was more like 1,400. After the war, German records revealed the true figure: 245.
 
 >In this problem you are trying to estimate how many tanks have been produced, based off of the serial numbers of captured tanks. Bayes theorem was used in World War 2 by the Allies to do exactly that, and ended up with results that were substantially lower for total number of tanks produced than conventional intelligence estimates (i.e. spies) were reporting. After the war, records indicated that the statistical estimates using Bayes Theorem were also substantially more correct.
 
