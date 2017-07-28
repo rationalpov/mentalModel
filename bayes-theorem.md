@@ -132,6 +132,7 @@ when we examine the Evidence (B)( "Human fed us every day" ), it could have the 
 
 The Evidence "Human fed us every day" can't distinguish between two Alternate Explaination.
 
+___
 
 **How to use this mental Model**:
 
@@ -148,6 +149,16 @@ The Evidence "Human fed us every day" can't distinguish between two Alternate Ex
 * Brain Storm/List out any reasons you can think of to cause event B to happen, and the probability associate with it.
 * This usually it is the hardest part and you can also try using combination to list out the possible scenarios.
 
+But in the real world, often we dont have the luxury to do extensive research, Brian and Tom in their excellent book [Algorithms to live by](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365/ref=sr_1_sc_1?ie=UTF8&qid=1501198340&sr=8-1-spell&keywords=algorimthm+to+live+by) provide a concrete actions steps:
+
+* Guess what the prior distribution will be like:
+
+  * Multiplicative(anything with a power law distribution, wealth distribution, city size)
+   * for uninformative priors, multiple the number observed by 2
+  
+  * Average( for anything normally distributed, human age, human height etc )
+   * always predict average, if more than average, the average + a fraction of average
+   
 
 
 
