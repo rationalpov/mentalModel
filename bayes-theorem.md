@@ -155,7 +155,6 @@ But in the real world, often we dont have the luxury to do extensive research, B
 
   * Multiplicative(anything with a power law distribution, wealth distribution, city size)
    * for uninformative priors, multiple the number observed by 2
-  
   * Average( for anything normally distributed, human age, human height etc )
    * always predict average, if more than average, the average + a fraction of average
    
