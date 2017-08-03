@@ -9,18 +9,20 @@ Biology
 
 ### Up Stream Lattice
 
-Backup_System
+[combinations](combinations.md)
 
 ### Down Stream Lattice
 
 
 ### Peer Lattice:
 
+Backup System
+
 # Introductions
 
 > I've had many friends in the sick business fixup game over a long lifetime. And they practically all use the following formula—I call it the cancer surgery formula:
 
-They look at this mess. And they figure out if there's anything sound left that can live on its own if they cut away everything else. And if they find anything sound, they just cut away everything else. Of course, if that doesn't work, they liquidate the business. But it frequently does work. -- Charlie Munger
+> They look at this mess. And they figure out if there's anything sound left that can live on its own if they cut away everything else. And if they find anything sound, they just cut away everything else. Of course, if that doesn't work, they liquidate the business. But it frequently does work. -- Charlie Munger
 
 
 ## How to use this mental Model:
@@ -31,7 +33,11 @@ try to determine if there is sub component can be living on its own( backup syst
 
 ### Conditions:
 
+There are more than one parrel routes in critical path, some of them is working, and some of them is not.
+
 ### Predictions:
+
+cut off the doesn't work critical path, and the working one will survive better.
 
 ### Examples:
 
