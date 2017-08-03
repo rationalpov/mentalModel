@@ -20,8 +20,7 @@ Chemistry: [Activation Energy](https://en.wikipedia.org/wiki/Activation_energy)
 
 ![critical mass wiki](https://upload.wikimedia.org/wikipedia/commons/1/13/Partially-reflected-plutonium-sphere.jpeg)
 
-it describes the phenomenon of a system passes the inflection point and reaches positive feedback.
-
+it describes the phenomenon of a system passes the inflection point and reaches positive feedback. 
 
 ## How to use this mental Model:
 
@@ -29,18 +28,25 @@ it describes the phenomenon of a system passes the inflection point and reaches 
 
 ### Conditions:
 
+* Feedback loop Exist from output to input
+* Positive Feedback
+
+
 ### Predictions:
+
+* Once it Passes Critical mass, it will compound, and grow exponentially 
 
 ### Examples:
 
+* Viral Effect
+
+
+---
 
 
 
 
 
-
-
-__
 
 [Reynolds Number](https://www.edge.org/response-detail/27056)
 
