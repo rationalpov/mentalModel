@@ -150,7 +150,7 @@ ___
 
 ### Discipline Physics
 
-* Critical Mass
+* [Critical Mass](criticalMass.md)
 * [Principle of least resistance](lawOfleastAction.md)
 
 
