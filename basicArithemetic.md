@@ -9,7 +9,11 @@ Mathematics
 
 ### Down Stream Lattice
 
+additive/multiplicative system
+
 Monte Carlo Method
+
+size and scale
 
 feedback system
 
