@@ -22,20 +22,6 @@ geometric mean is the tricky one, it is calculated by multiple all the number to
 
 To better explain the difference, Lets starts with gambling:
 
-Imaging you are betting again your neighbor on the flip of a coin.
-
-head you win, tail you loss, and the coin is fair.
-
-on the first set of the game, you play by betting fixed $100 wager, no matter the results
-
-game| coin flip | win/loss
----|---
-1|head|100
-2|tail| -100
-3| head | 100
-
-
-
 
 
 The best explanation of multiplicative & additive system in [farnamstreetblog](https://www.farnamstreetblog.com/2016/08/mental-model-multiplicative-systems/)
@@ -50,6 +36,9 @@ Because it is a additive system, and offers matching between N number of buyer a
 Most of the system is a hybrid of these two.
 
 For Mutiplicative part of it, you need to find out the weakest link of it, the whole chain is govern by it.
+
+> A “fair” wager is one where the expectation, computed as an arithmetic mean of equally likely outcomes, is zero. Here’s an example of a so-called fair wager. You bet your entire net worth on the flip of a coin. You play against your neighbor, who has the same net worth. It’s double or nothing. Winner gets the loser’s house, car, savings, everything. Right now you have $ 100,000, say. After the coin toss, you will either have $ 200,000 or $ 0, each an equally likely outcome. The arithmetic mean is ($ 200,000   $ 0) /2, or $ 100,000. If you adopt $ 100,000 as the fair and proper value of this wager, then it might seem you should be indifferent to taking this wager or not. You’ve got $ 100,000 now, and you expect the same amount after the coin toss. Same difference.
+
 
 
 
