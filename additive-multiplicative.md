@@ -37,7 +37,7 @@ Most of the system is a hybrid of these two.
 
 For Mutiplicative part of it, you need to find out the weakest link of it, the whole chain is govern by it.
 
-> A “fair” wager is one where the expectation, computed as an arithmetic mean of equally likely outcomes, is zero. Here’s an example of a so-called fair wager. You bet your entire net worth on the flip of a coin. You play against your neighbor, who has the same net worth. It’s double or nothing. Winner gets the loser’s house, car, savings, everything. Right now you have $ 100,000, say. After the coin toss, you will either have $ 200,000 or $ 0, each an equally likely outcome. The arithmetic mean is ($ 200,000   $ 0) /2, or $ 100,000. If you adopt $ 100,000 as the fair and proper value of this wager, then it might seem you should be indifferent to taking this wager or not. You’ve got $ 100,000 now, and you expect the same amount after the coin toss. Same difference.
+
 
 
 
