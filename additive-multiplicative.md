@@ -20,7 +20,14 @@ arithmetic average is the simple one, you can use the formular = average() in ex
 geometric mean is the tricky one, it is calculated by multiple all the number together and take the Nth root to it.
 
 
-To better explain the difference, Lets starts with gambling:
+William Poundstone explained the difference between geometric mean and arithmetic mean in his book [fortunes formular](https://www.amazon.com/Fortunes-Formula-Scientific-Betting-Casinos/dp/0809045990/ref=asap_bc?ie=UTF8)
+
+
+> The point of any average is to simplify life. It is easier to remember that Manny Ramirez has a batting average of .349 than to memorize every fact about his entire career. A batting average may be more informative about a player’s abilities than a mountain of raw data. In baseball and much else, the ordinary, arithmetic mean works well enough. Why should we bother with a geometric mean? Bernoulli starts with gambling. A “fair” wager is one where the expectation, computed as an arithmetic mean of equally likely outcomes, is zero. Here’s an example of a so-called fair wager. You bet your entire net worth on the flip of a coin. You play against your neighbor, who has the same net worth. It’s double or nothing. Winner gets the loser’s house, car, savings, everything. Right now you have $ 100,000, say. After the coin toss, you will either have $ 200,000 or $ 0, each an equally likely outcome. The arithmetic mean is ($ 200,000   $ 0) /2, or $ 100,000. If you adopt $ 100,000 as the fair and proper value of this wager, then it might seem you should be indifferent to taking this wager or not. You’ve got $ 100,000 now, and you expect the same amount after the coin toss. Same difference.
+
+> People don’t reason this way. Both you and your neighbor would be nuts to agree to this wager. You have far more to lose by forfeiting everything you have than to gain by doubling your net worth. Look at the geometric mean. You compute it by multiplying the
+
+> Look at the geometric mean. You compute it by multiplying the two equally possible outcomes together— $ 200,000 times $ 0— and taking the square root. Since zero times anything is zero, the geometric mean is zero. Accept that as the true value of the wager, and you’ll prefer to stick with your $ 100,000 net worth. The geometric mean is almost always less than the arithmetic mean. (The exception is when all the averaged values are identical. Then the two kinds of mean are the same.) This means that the geometric mean is a more conservative way of valuing risky propositions. Bernoulli believed that this conservatism better reflects people’s distaste for risk. Because the geometric mean is always less than the arithmetic mean in a risky venture, “fair” wagers are in fact unfavorable. This, says Bernoulli, is “Nature’s admonition to avoid the dice altogether.” (Bernoulli does not allow for any enjoyment people may get from gambling.)
 
 
 
