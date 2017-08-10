@@ -954,17 +954,11 @@ ___
 Normal Distribtion is the heart of frequencist core(Central Limit Theorem), And Normal Distribution Diagram is a probability density diagram, so once the mean and standard deviation is known, we can use inverse lookup the probability of a given x value.
 
 
-[Beta Distribution](https://www.countbayesie.com/blog/2015/4/4/parameter-estimation-the-pdf-cdf-and-quantile-function) is the Bayestist equavilant of Normal Distribution.
 
 what is beta distribution ?
 
-In plain words, beta distribution is the unknown distribution, probably x distribution would be a better name;
 
-
->[The short version is that the Beta distribution can be understood as representing a distribution of probabilities- that is, it represents all the possible values of a probability when we don't know what that probability is. Here is my favorite intuitive explanation of this:
-In Practice, Beta Distribution Function is used with Baysian Formular for Binomial Events(1/0):](http://stats.stackexchange.com/questions/47771/what-is-the-intuition-behind-beta-distribution)
-
-The idea of beta distribution is illustrated by Richard Price, from [Algorithem to live by](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365/ref=sr_1_sc_1?ie=UTF8&qid=1501198340&sr=8-1-spell&keywords=algorimthm+to+live+by) a friend of Thomas Bayes. In his essay, price explains the idea of beta distribution as the follows:
+The idea of beta distribution is best illustrated by Richard Price, from [Algorithem to live by](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365/ref=sr_1_sc_1?ie=UTF8&qid=1501198340&sr=8-1-spell&keywords=algorimthm+to+live+by) a friend of Thomas Bayes. In his essay, price explains the idea of beta distribution as the follows:
 
 > Let us then imagine a person present at the drawing of a lottery, who knows nothing of its scheme or of the proportion of Blanks to Prizes in it. Let it further be supposed, that he is obliged to infer this from the number of blanks he hears drawn compared with the number of prizes; and that it is enquired what conclusions in these circumstances he may reasonably make.
 
@@ -978,6 +972,8 @@ beta distribution is the mathmatical represention of this probability, in this c
 
 ![alpha = 3, beta = 0.00001](https://dl.dropboxusercontent.com/spa/8a95omz6xkznrmw/88g8so16.png)
 
+
+The math behind beta distribution is explained in this excellent blog [Beta Distribution](https://www.countbayesie.com/blog/2015/4/4/parameter-estimation-the-pdf-cdf-and-quantile-function) 
 
 
 The more commonly used beta distribution is beta distribution with likelyhood of binomial distribution.
