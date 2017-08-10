@@ -13,6 +13,30 @@
 
 # Introductions
 
+## geometric mean and arithmetic mean
+
+arithmetic average is the simple one, you can use the formular = average() in excel to compute it.
+
+geometric mean is the tricky one, it is calculated by multiple all the number together and take the Nth root to it.
+
+
+To better explain the difference, Lets starts with gambling:
+
+Imaging you are betting again your neighbor on the flip of a coin.
+
+head you win, tail you loss, and the coin is fair.
+
+on the first set of the game, you play by betting fixed $100 wager, no matter the results
+
+game| coin flip | win/loss
+---|---
+1|head|100
+2|tail| -100
+3| head | 100
+
+
+
+
 
 The best explanation of multiplicative & additive system in [farnamstreetblog](https://www.farnamstreetblog.com/2016/08/mental-model-multiplicative-systems/)
 
@@ -23,14 +47,9 @@ Why market is so powerful and almost work like magic ?
 Because it is a additive system, and offers matching between N number of buyer and M number of sellers. The combination between buyer and sellers exploded with number of buyer and seller increase.
 
 
-
 Most of the system is a hybrid of these two.
 
 For Mutiplicative part of it, you need to find out the weakest link of it, the whole chain is govern by it.
-
-* Scale Valuables to Extreme
-
-Move the needle 100x or 1000x, look at the numbers and try to translate it back to real life object/experience. What will break ? will it work ?
 
 
 
