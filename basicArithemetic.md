@@ -23,7 +23,7 @@ Invert
 
 # Introduction
 
-The first mental model is Simple Arithmetic, it ranked number 1 mental model according to Charlie Munger.Why it ranked No.1 ? because it is **the** most widely appliable mental model. 
+The first mental model is basic arithmetic, it was one of the most important mental model according to Charlie Munger.Why it is important ? because it is **the** most widely appliable mental model. 
 
 ## How to use this mental Model:
 
