@@ -65,6 +65,11 @@ inclusive system, is a additive one, and extractive system, is an multiplicative
 
 ### Identify what kind of distribution it is, is it normal or powerlaw distributed ?
 
+* What do you mean by distribution ?
+
+How the numbers scatter, it appears visually when make a histogram out the data
+
+
 From Brian Christian and Tom Griffiths's [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365/ref=sr_1_sc_1?ie=UTF8&qid=1503015103&sr=8-1-spell&keywords=alogorimthm+to+live+by),
 
 
