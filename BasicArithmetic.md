@@ -35,7 +35,7 @@ Numbers doesn't make much sense alone, but it is much more useful to model reali
 
 Use [spreadsheet](https://www.google.com/sheets/about/) to a math model of the things your try to understand:
 
-* Identify **critical path** \( from input to output\) you try to analyses;
+### Identify **critical path** \( from input to output\) you try to analyses;
 
 * list Input/outputs
 * identify any alternate route from input to outputs.
@@ -43,10 +43,7 @@ Use [spreadsheet](https://www.google.com/sheets/about/) to a math model of the t
 eg. for business , it is revenue and cost;
 
 
-
-## Analysis and Prediction
-
-* is it a **multiplicative** Or **Additive** System
+### Identify what is kind of system it is,  is it a **multiplicative** Or **Additive** System
 
 The best explanation of multiplicative & additive system in [farnamstreetblog](https://www.farnamstreetblog.com/2016/08/mental-model-multiplicative-systems/)
 
@@ -66,24 +63,38 @@ Acemoglu and Robinson's major argument is economic prosperity depends above all 
 inclusive system, is a additive one, and extractive system, is an multiplicative one.
 
 
+### Identify what kind of distribution it is, is it normal or powerlaw distributed ?
 
-Most of the system is a hybrid of these two.
+From Brian Christian and Tom Griffiths's [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365/ref=sr_1_sc_1?ie=UTF8&qid=1503015103&sr=8-1-spell&keywords=alogorimthm+to+live+by),
 
-For Mutiplicative part of it, you need to find out the weakest link of it, the whole chain is govern by it.
 
-* Scale Valuables to Extreme
+> In the broadest sense, there are two types of things in the world: things that tend toward (or cluster around) some kind of “natural” value, and things that don’t. 
 
-Move the needle 100x or 1000x, look at the numbers and try to translate it back to real life object/experience. What will break ? will it work ?
+> Human life spans are clearly in the former category. They roughly follow what’s termed a “normal” distribution— also known as the “Gaussian” distribution, after the German mathematician Carl Friedrich Gauss, and informally called the “bell curve” for its characteristic shape. This shape does a good job of characterizing human life spans; the average life span for men in the United States, for instance, is centered at about 76 years, and the probabilities fall off fairly sharply to either side. Normal distributions tend to have a single appropriate scale: a one-digit life span is considered tragic, a three-digit one extraordinary. Many other things in the natural world are normally distributed as well, from human height, weight, and blood pressure to the noontime temperature in a city and the diameter of fruits in an orchard.
 
-* Lay down a spreadsheet , try to predict:
+> In the broadest sense, there are two types of things in the world: things that tend toward (or cluster around) some kind of “natural” value, and things that don’t. Human life spans are clearly in the former category. They roughly follow what’s termed a “normal” distribution— also known as the “Gaussian” distribution, after the German mathematician Carl Friedrich Gauss, and informally called the “bell curve” for its characteristic shape. This shape does a good job of characterizing human life spans; the average life span for men in the United States, for instance, is centered at about 76 years, and the probabilities fall off fairly sharply to either side. Normal distributions tend to have a single appropriate scale: a one-digit life span is considered tragic, a three-digit one extraordinary. Many other things in the natural world are normally distributed as well, from human height, weight, and blood pressure to the noontime temperature in a city and the diameter of fruits in an orchard.
 
-* the scenarios 12 months later.
+#### Prediction rules for power law distributed things.
 
-* the input x 10 times, what happen to inputs and the system, will it break ?
+Multiple the quantity observed by some constant factor, if you don't know any thing about it, it happens to be 2, 
 
-* the output x 10 times, what does it take for inputs, will it break ?
 
-* how the number translated into actual human experience ?
+#### Prediction rules for normal distributed things.
+
+if less than average, predict the average.
+
+eg. if you meet a young man and need to predict how long he will live, give out the average life span of the city.
+
+if more than average, average + some more 
+
+
+
+
+
+
+### How will it scale to 100 or 1000 times ?
+
+When things or system scales, it often change to a completely different thing.
 
 
 
