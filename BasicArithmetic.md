@@ -31,11 +31,20 @@ Numbers doesn't make much sense alone, but it is much more useful to model reali
 
 ![math](https://dl.dropboxusercontent.com/spa/8a95omz6xkznrmw/4g2-vbhh.png)
 
-## Modeling
+## Simplification 
+
+### Identify **critical path** and slim down the problem to its core.
+
+Claude Shannon gave a [speech](http://www1.ece.neu.edu/~naderi/Claude%20Shannon.html)  about creative thinking( or how to solve a hard problem in general)  to a small group in Bell lab
+
+> The first one that I might speak of is the idea of simplification. Suppose that you are given a problem to solve, I don’t care what kind of a problem - a machine to design, or a physical theory to develop, or a mathematical theorem to prove, or something of that kind - probably a very powerful approach to this is to attempt to eliminate everything from the problem except the essentials; that is, cut it down to size. Almost every problem that you come across is befuddled with all kinds of extraneous data of one sort or another; and if you can bring this problem down into the main issues, you can see more clearly what you’re trying to do and perhaps find a solution. Now, in so doing, you may have stripped away the problem that you’re after. You may have simplified it to a point that it doesn’t even resemble the problem that you started with; but very often if you can solve this simple problem, you can add refinements to the solution of this until you get back to the solution of the one you started with.
+
+
+## modeling 
 
 Use [spreadsheet](https://www.google.com/sheets/about/) to a math model of the things your try to understand:
 
-### Identify **critical path** \( from input to output\) you try to analyses;
+
 
 * list Input/outputs
 * identify any alternate route from input to outputs.
