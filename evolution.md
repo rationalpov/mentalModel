@@ -30,9 +30,15 @@ The main trigger is **geo seperation** , it is mostly visible in islands.
 his also outline the science behind evolution, the number of species in the geo is proportional to the area, and the bigger the area, the high level of species in the food chain can survive.
 
 * Selection ( a filter, or a breakpoint to filter the individuals ), mostly is the geo
-* Breed
+* variation in the individual, it needs the individuals to be highly similar, but not exactly similar
+* the individual needs to be a ble to breed
 
-Individuals must be able to reproduce
+
+**In summary, natural selection is a change in populations caused by variations in individual and results in a different rate of reproduction.**
+
+
+
+
 
 
 
