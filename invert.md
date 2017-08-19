@@ -30,6 +30,17 @@ Charlie munger on how to solve the problem of helping india ( or any other natio
 
 Generally any complex adaptive systems is a hybrid of multiplicative and additive system, invert can expose the break points in multiplicative system, then we can find a way to avoid it.
 
+## Claude Shannon on how to use invert to be creative.
+
+In his speech on Creative thinking, Shannon [mentioned](http://www1.ece.neu.edu/~naderi/Claude%20Shannon.html) to use invert to solve hard problem:
+
+> Now one other thing I would like to bring out which I run across quite frequently in mathematical work is the idea of inversion of the problem. You are trying to obtain the solution S on the basis of the premises P and then you can’t do it. Well, turn the problem over supposing that S were the given proposition, the given axioms, or the given numbers in the problem and what you are trying to obtain is P. Just imagine that that were the case. Then you will find that it is relatively easy to solve the problem in that direction. You find a fairly direct route. If so, it’s often possible to invent it in small batches. In other words, you’ve got a path marked out here - there you got relays you sent this way. You can see how to invert these things in small stages and perhaps three or four only difficult steps in the proof.
+
+> Now I think the same thing can happen in design work. Sometimes I have had the experience of designing computing machines of various sorts in which I wanted to compute certain numbers out of certain given quantities. This happened to be a machine that played the game of nim and it turned out that it seemed to be quite difficult. If took quite a number of relays to do this particular calculation although it could be done. But then I got the idea that if I inverted the problem, it would have been very easy to do - if the given and required results had been interchanged; and that idea led to a way of doing it which was far simpler than the first design. The way of doing it was doing it by feedback; that is, you start with the required result and run it back until - run it through its value until it matches the given input. So the machine itself was worked backward putting range S over the numbers until it had the number that you actually had and, at that point, until it reached the number such that P shows you the correct way. Well, now the solution for this philosophy which is probably very boring to most of you. I’d like now to show you this machine which I brought along and go into one or two of the problems which were connected with the design of that because I think they illustrate some of these things I’ve been talking about. In order to see this, you’ll have to come up around it; so, I wonder whether you will all come up around the table now.
+
+
+
+
 **How to use this mental Model**:
 
 (1) Invert. Take a particular goal that you hope to achieve – now invert it to find your non-goal. To do this ask: What don’t I want to achieve?
