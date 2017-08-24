@@ -35,8 +35,11 @@ Erwin generalized this statement as $$sqrt(n)$$ law,
 
 >The laws of physics and physical chemistry are inaccurate whithin a probably relative error of the order of 1/$$sqrt(n)$$, where n is the number of the molecules that co-operate to bring about the law
 
+say if the atom is very large, and you body only consist of 100 atoms, the relative error will be 10, 10%, if n is 1 million, the relative error is about 0.1%, which is still huge, in order to produce very stable physics and chemistry law, the n must be very, very large, thus the atoms has to be very, very small.
 
+Where does the $$sqrt(n)$$ formular come from ? it could be come from the central limit therom.
 
+---
 
 
 The central limit theorem states:
