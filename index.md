@@ -8,7 +8,7 @@ One of the most briliant mind of the last century, Claude Shannon, gave a [speec
 
 Despite the title, it fits the purpose of explaining the purpose of mental model perfectly:
 
-[Shannon](http://www.rle.mit.edu/rgallager/documents/BooleShannon.pdf)  started with three main attributes 
+Prof. Robert Gallager from MIT [summerized](http://www.rle.mit.edu/rgallager/documents/BooleShannon.pdf) Shannon's speech.
 
 * training and related experience
 * intelligence
@@ -16,14 +16,14 @@ Despite the title, it fits the purpose of explaining the purpose of mental model
 
 then he gave out "tricks for formulating and solving problems"
 
-* simplification: 
+* simplification: get rid of enough detail (including practical aspects) for intuitive understanding.
 * similarity to a know problem
 * reformulate, review/rephrase from all possible angle
 * generalize
 * structural analysis
 * invertion
 
-
+These 6 principles can be say the same for mental model.
 
 **Example**:
 
