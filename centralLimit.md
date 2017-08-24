@@ -17,7 +17,7 @@ Law of large numbers
 
 Atoms, the basic element of our world, is very , very small. an atom is about million times smaller than human hair, the unit to measure atom diameter is nanometer, (10 -10 m), the size is about 0.1 to 0.5 nm
 
-Why atom is so small ? can it be much larger ?
+Why atom is so **small** ? why can't it be much larger ?
 
 Nobel laureate Erwin Schrödinger in his insightful book [what is life?](https://www.amazon.com/What-Life-Autobiographical-Sketches-Classics/dp/1107604664/ref=sr_1_3?ie=UTF8&qid=1503536862&sr=8-3&keywords=what+is+life) bring up this question.
 
@@ -27,7 +27,7 @@ Erwin argues the law of physics and chemistry, is statistical in nature.
 
 ![sinking fog](https://dl.dropboxusercontent.com/spa/8a95omz6xkznrmw/1g4b983h.png)
 
-The example of one individual droplet
+The brownian of the movement
 
 ![brownian movement](https://dl.dropboxusercontent.com/spa/8a95omz6xkznrmw/xt67tvy8.png)
 
