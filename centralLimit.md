@@ -33,7 +33,7 @@ The brownian of the movement
 
 Erwin generalized this statement as $$sqrt(n)$$ law,
 
->The laws of physics and physical chemistry are inaccurate whithin a probably relative error of the order of 1/$$sqrt(n), where n is the number of the molecules that co-operate to bring about the law
+>The laws of physics and physical chemistry are inaccurate whithin a probably relative error of the order of 1/$$sqrt(n)$$, where n is the number of the molecules that co-operate to bring about the law
 
 
 
