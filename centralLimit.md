@@ -3,6 +3,20 @@
 ## Discipline:Mathematics
 
 
+## Up Stream Lattice :
+
+Law of large numbers
+
+## Down Stream Lattice :
+
+* 80/20 Rule
+* principle of locality
+
+
+# Introduction:
+
+
+
 The central limit theorem states:
 
 If you draw a fix number of random samples many times from a pool of numbers with **known** standard deviation & mean, The sum of these sample values from each draw will form a bell curve with predictable standard deviation and mean.
@@ -17,15 +31,6 @@ If you want to use the average;
 
 sample group mean average = true mean µ
 **sample standard deviation** = $$\frac{σ}{\sqrt{n}}$$
-
-## Up Stream Lattice :
-
-Law of large numbers
-
-## Down Stream Lattice :
-
-* 80/20 Rule
-* principle of locality
 
 
 **Why this is important?**
