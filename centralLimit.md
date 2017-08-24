@@ -15,6 +15,24 @@ Law of large numbers
 
 # Introduction:
 
+Atoms, the basic element of our world, is very , very small. an atom is about million times smaller than human hair, the unit to measure atom diameter is nanometer, (10 -10 m), the size is about 0.1 to 0.5 nm
+
+Why atom is so small ? can it be much larger ?
+
+Nobel laureate Erwin Schrödinger in his insightful book [what is life?](https://www.amazon.com/What-Life-Autobiographical-Sketches-Classics/dp/1107604664/ref=sr_1_3?ie=UTF8&qid=1503536862&sr=8-3&keywords=what+is+life) bring up this question.
+
+Erwin argues the law of physics and chemistry, is statistical in nature.
+
+> If you fill the lower part of a closed glass vessel with fog (figure below ), consisting of minute droplets, you will find that the upper or boundary of the fog gradually sinks, with a well-defined velocity, determined by the viscosity of the air and the size and the specific gravity of the droplets. But if you look at one of the droplets under the microscope you find that it does not permanently sink with constant velocity, but performs a very irregular movement, the so-called Brownian movement (figure on the right), which corresponds to a regular sinking only on the average. Now these droplets are not atoms, but they are sufficiently small and light to be not entirely insusceptible to the impact of one single molecule of those which hammer their surface in perpetual impacts. They are thus knocked about and can only on the average follow the influence of gravity. This example shows what funny and disorderly experience we should have if our senses were susceptible to the impact of a few molecules only.
+
+https://dl.dropboxusercontent.com/spa/8a95omz6xkznrmw/1g4b983h.png
+
+The example of one individual droplet
+
+https://dl.dropboxusercontent.com/spa/8a95omz6xkznrmw/xt67tvy8.png
+
+
+
 
 
 The central limit theorem states:
