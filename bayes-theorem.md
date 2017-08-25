@@ -18,7 +18,7 @@
 
 Introductions
 
-> "When my information changes, I alter my conclusions. What do you do, sir?" - John Maynard Keynes
+> "When my information changes, I alter my conclusions. What do you do, sir?" - Probably said by John Maynard Keynes
 
 The essence of Bayes's Theorem is, the evidence could have many alternative explanations, and your plausible belief is just one of them.
 
