@@ -1512,13 +1512,15 @@ Example:
 
 You went to see the doctor about your high blood pressure problem:
 
+
 Freqentist Docotor:
 
 >“If I prescribe drugX to all my hypertensive patients, will their blood pressure improve, on average?”
 
-Baesian Doctor:
+Baysian Doctor:
 
->“If I prescribe drugX to this patient, the one sitting in my examination room, will the patient’s blood pressure improve?” "
+>“If I prescribe drugX to this patient, the one sitting in my examination room, will the patient’s blood pressure improve?” ", then the baysian doctor will try to collect priors from the patient and use in the judgement
+
 
 
 
