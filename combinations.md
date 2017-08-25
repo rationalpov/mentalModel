@@ -36,7 +36,7 @@ Thats the world we are living in, it is filled with combinatorial explosion. The
 Combinatorial explosion can be used in two ways.
 
 
-One way is forward, you use Combinatorial explosion to create many many alternative path.
+One way is forward, you use Combinatorial explosion to create many many alternative path or (products), thats what amazon aws does, it doesn't try to create the any product or services through combination, instead it focused on the atoms( elementary services)
 
 by doing this way, you can:
 
@@ -44,13 +44,8 @@ by doing this way, you can:
 * Make a one way mirror, ie. **encryption**, make it very difficult to reverse engineer and know your original combinational set.
 
 
-### The other way is invert, try to break down a complex sysstem into its components.
+To really understand a system, one very effective way is to try to break down a complex sysstem into its components. thats usually very difficult to do.
 
-#### Occam's razor 
-Understand the Combinatorial explosion by trying to analyses and isolate things back to its elements. It is very difficult to analyse 480 ways of dressing, but
-trace it down to 3 hats, 4 shirts, 5 pants, 4 pair of socks, 2 pair of shoes will be much easier.
-
-Thats the attribution of Occam's razor, Among competing hypotheses, the one with the fewest assumptions should be selected, because the one with the fewest assumptions, it is closer to the seed element of combinations.
 
 #### Analysis from First Principles, how Richard Feynman and Elon Musk do analysis
 
@@ -66,6 +61,15 @@ In fact, Richard feynman thought the most valuable piece of 20th century physic,
 
 > If, in some cataclysm, all of scientific knowledge were to be destroyed, and only one sentence passed on to the next generations of creatures, what statement would contain the most information in the fewest words? I believe it is the atomic hypothesis (or the atomic fact, or whatever you wish to call it) that all things are made of atoms—little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another. - Richard Feynman
 
+
+
+
+
+#### Occam's razor 
+Understand the Combinatorial explosion by trying to analyses and isolate things back to its elements. It is very difficult to analyse 480 ways of dressing, but
+trace it down to 3 hats, 4 shirts, 5 pants, 4 pair of socks, 2 pair of shoes will be much easier.
+
+Thats the attribution of Occam's razor, Among competing hypotheses, the one with the fewest assumptions should be selected, because the one with the fewest assumptions, it is closer to the seed element of combinations.
 
 
 ___
