@@ -25,7 +25,7 @@ Hossein Rezazadeh of Iran, one of the greatest weightlifters of all times, can l
 
 Why is the difference? Why we can't lift up to 20 to 100 times of our own weight ? if we scale up ant to a human size, can it lift up a van?
 
-Probably not, because of size and scales:
+It will not, because of size and scaling laws:
 
 Imaging a cube filled with water, with 1cm in lengh, the cube will has a surface area of 6cm, and weight 1g
 
@@ -36,6 +36,8 @@ we can see from this example, the lengh scales 10X, the surface area scales 100X
 In our physical world, Strengh is a function of objects cross area. but the weight is a function of the size.
 
 That means if we scale an ant by 10 times, its legs cross section area only increase by 100 times, but need to support 1000 times the current weight. 
+
+so when you scale an ant 1000 times or 1000000 times, it would not be an ant anymore, it will look and feels and behave completely different from an "ann".
 
 This scaling effect has huge implication on the things around us:
 
