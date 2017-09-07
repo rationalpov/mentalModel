@@ -23,7 +23,7 @@ Invert
 
 # Introduction
 
-The first mental model is Simple Arithmetic, it ranked number 1 mental model according to Charlie Munger.
+The first mental model is Simple Arithmetic, it ranked one of the most fundamental mental model according to Charlie Munger.
 
 ## How to use this mental Model:
 
@@ -50,6 +50,8 @@ Use [spreadsheet](https://www.google.com/sheets/about/) to a math model of the t
 * identify any alternate route from input to outputs.
 
 eg. for business , it is revenue and cost;
+
+### try to guess what is the distribution of the outcomes
 
 
 ### Identify what is kind of system it is,  is it a **multiplicative** Or **Additive** System
