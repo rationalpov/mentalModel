@@ -39,36 +39,42 @@ Claude Shannon gave a [speech](http://www1.ece.neu.edu/~naderi/Claude%20Shannon.
 > The first one that I might speak of is the idea of simplification. Suppose that you are given a problem to solve, I don’t care what kind of a problem - a machine to design, or a physical theory to develop, or a mathematical theorem to prove, or something of that kind - probably a very powerful approach to this is to attempt to eliminate everything from the problem except the essentials; that is, cut it down to size. Almost every problem that you come across is befuddled with all kinds of extraneous data of one sort or another; and if you can bring this problem down into the main issues, you can see more clearly what you’re trying to do and perhaps find a solution. Now, in so doing, you may have stripped away the problem that you’re after. You may have simplified it to a point that it doesn’t even resemble the problem that you started with; but very often if you can solve this simple problem, you can add refinements to the solution of this until you get back to the solution of the one you started with.
 
 
-### What is the base rate and prior look like ?
 
-One of the most important thing for a good prediction is to get the distribution and base rate right.
+### Identify what kind of distribution it is, is it normal or powerlaw distributed ?
 
-There are roughly two kind of distribution in world, normal distributed and others.
+* What do you mean by distribution ?
 
+Distribution is how the numbers scatter, it appears visually when make a histogram out the data
 
-#### Normal Distribution Prediction rules
-
-Most nature things are in this categories, things that cluster around an average value,
-we usually classified this distribution as normal distribution, normal distribution hints an underlying additive system at work.
-
-If the outcome is normal distributed, Brian Christian, Tom Griffiths suggest us to use the **Average Rule** in [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
-
-> we get an Average Rule: use the distribution’s “natural” average— its single, specific scale— as your guide. For instance, if somebody is younger than the average life span, then simply predict the average; as their age gets close to and then exceeds the average, predict that they’ll live a few years more. Following this rule gives reasonable predictions for the 90-year-old and the 6-year-old: 94 and 77, respectively. (The 6-year-old gets a tiny edge over the population average of 76 by virtue of having made it through infancy: we know he’s not in the distribution’s left tail.)
-
-In summary , the rules is simple:
-
-* if less than average, predict average
-* if more the average, predict average + some fraction of average
+From Brian Christian and Tom Griffiths's [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365/ref=sr_1_sc_1?ie=UTF8&qid=1503015103&sr=8-1-spell&keywords=alogorimthm+to+live+by),
 
 
-What else is normally distributed ?
+> In the broadest sense, there are two types of things in the world: things that tend toward (or cluster around) some kind of “natural” value, and things that don’t. 
 
-IQ scores( or any kind of score/exam system in general), variation in individuals( height,life span), movie playing times
+> Human life spans are clearly in the former category. They roughly follow what’s termed a “normal” distribution— also known as the “Gaussian” distribution, after the German mathematician Carl Friedrich Gauss, and informally called the “bell curve” for its characteristic shape. This shape does a good job of characterizing human life spans; the average life span for men in the United States, for instance, is centered at about 76 years, and the probabilities fall off fairly sharply to either side. Normal distributions tend to have a single appropriate scale: a one-digit life span is considered tragic, a three-digit one extraordinary. Many other things in the natural world are normally distributed as well, from human height, weight, and blood pressure to the noontime temperature in a city and the diameter of fruits in an orchard.
 
-#### Power law Distribution Prediction rules.
+Why is that ? it could because a normal distribution is a sign telling you the underlining system is an additive one, the system consist of many components and the result is the sum of the individual parts, so it is like taking a sum of the individual parts and central limit theory applies.
 
-A few thing in life, especially human related things, are not normally distribued. eg. city population,web site traffic, wealth distribution,  in general, money related things are generally obey powerlaws.
+> There are a number of things in the world that don’t look normally distributed, however— not by a long shot. The average population of a town in the United States, for instance, is 8,226. But if you were to make a graph of the number of
 
+> towns by population, you wouldn’t see anything remotely like a bell curve. There would be way more towns smaller than 8,226 than larger. At the same time, the larger ones would be way bigger than the average. This kind of pattern typifies what are called “power-law distributions.” These are also known as “scale-free distributions” because they characterize quantities that can plausibly range over many scales: a town can have tens, hundreds, thousands, tens of thousands, hundreds of thousands, or millions of residents, so we can’t pin down a single value for how big a “normal” town should be. The power-law distribution characterizes a host of phenomena in everyday life that have the same basic quality as town populations: most things below the mean, and a few enormous ones above it. Movie box-office grosses, which can range from four to ten figures, are another example. Most movies don’t make much money at all, but the occasional Titanic makes … well, titanic amounts. In fact, money in general is a domain full of power laws. Power-law distributions characterize both people’s wealth and people’s incomes. The mean income in America, for instance, is $ 55,688— but because income is roughly power-law distributed, we know, again, that many more people will be below this mean than above it, while those who are above might be practically off the charts. So it is: two-thirds of the US population make less than the mean income, but the top 1% make almost ten times the mean. And the top 1% of the 1% make ten times more than that.
+
+powerlaw distribution is a sign of the underlying system is multiplicative one, and grows exponentially.
+
+
+#### Prediction rules for normal distributed things.
+
+if less than average, predict the average.
+
+eg. if you meet a young man and need to predict how long he will live, give out the average life span of the city.
+
+if more than average, average + some more 
+
+
+
+#### Prediction rules for power law distributed things.
+
+Multiple the quantity observed by some constant factor, if you don't know any thing about it, it happens to be 2, 
 
 
 ### Is it a **multiplicative** Or **Additive** System
@@ -89,45 +95,6 @@ they argues the factor such as geographic, climate, culture, religion, policitca
 Acemoglu and Robinson's major argument is economic prosperity depends above all is whether the economic and political system is inclusive or extractive
 
 inclusive system, is a additive one, and extractive system, is an multiplicative one.
-
-
-### Identify what kind of distribution it is, is it normal or powerlaw distributed ?
-
-* What do you mean by distribution ?
-
-How the numbers scatter, it appears visually when make a histogram out the data
-
-
-From Brian Christian and Tom Griffiths's [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365/ref=sr_1_sc_1?ie=UTF8&qid=1503015103&sr=8-1-spell&keywords=alogorimthm+to+live+by),
-
-
-> In the broadest sense, there are two types of things in the world: things that tend toward (or cluster around) some kind of “natural” value, and things that don’t. 
-
-> Human life spans are clearly in the former category. They roughly follow what’s termed a “normal” distribution— also known as the “Gaussian” distribution, after the German mathematician Carl Friedrich Gauss, and informally called the “bell curve” for its characteristic shape. This shape does a good job of characterizing human life spans; the average life span for men in the United States, for instance, is centered at about 76 years, and the probabilities fall off fairly sharply to either side. Normal distributions tend to have a single appropriate scale: a one-digit life span is considered tragic, a three-digit one extraordinary. Many other things in the natural world are normally distributed as well, from human height, weight, and blood pressure to the noontime temperature in a city and the diameter of fruits in an orchard.
-
-Why is that ? it could because a normal distribution is a sign telling you the underlining system is an additive one, the system consist of many components and the result is the sum of the individual parts, so it is like taking a sum of the individual parts and central limit theory applies.
-
-> There are a number of things in the world that don’t look normally distributed, however— not by a long shot. The average population of a town in the United States, for instance, is 8,226. But if you were to make a graph of the number of
-
-> towns by population, you wouldn’t see anything remotely like a bell curve. There would be way more towns smaller than 8,226 than larger. At the same time, the larger ones would be way bigger than the average. This kind of pattern typifies what are called “power-law distributions.” These are also known as “scale-free distributions” because they characterize quantities that can plausibly range over many scales: a town can have tens, hundreds, thousands, tens of thousands, hundreds of thousands, or millions of residents, so we can’t pin down a single value for how big a “normal” town should be. The power-law distribution characterizes a host of phenomena in everyday life that have the same basic quality as town populations: most things below the mean, and a few enormous ones above it. Movie box-office grosses, which can range from four to ten figures, are another example. Most movies don’t make much money at all, but the occasional Titanic makes … well, titanic amounts. In fact, money in general is a domain full of power laws. Power-law distributions characterize both people’s wealth and people’s incomes. The mean income in America, for instance, is $ 55,688— but because income is roughly power-law distributed, we know, again, that many more people will be below this mean than above it, while those who are above might be practically off the charts. So it is: two-thirds of the US population make less than the mean income, but the top 1% make almost ten times the mean. And the top 1% of the 1% make ten times more than that.
-
-powerlaw distribution is a sign of the underlying system is multiplicative one, and grows exponentially.
-
-#### Prediction rules for power law distributed things.
-
-Multiple the quantity observed by some constant factor, if you don't know any thing about it, it happens to be 2, 
-
-
-#### Prediction rules for normal distributed things.
-
-if less than average, predict the average.
-
-eg. if you meet a young man and need to predict how long he will live, give out the average life span of the city.
-
-if more than average, average + some more 
-
-
-
 
 
 
