@@ -6,7 +6,7 @@ Why is it important ?
 
 One of the most briliant mind of the last century, Claude Shannon, gave a [speech](http://www1.ece.neu.edu/~naderi/Claude%20Shannon.html)  on creative thinking to a small group of researchers in bell labs.
 
-Despite the title, it fits the purpose of explaining the purpose of mental model perfectly:
+Despite the title, it fits the purpose of explaining mental model perfectly:
 
 Prof. Robert Gallager from MIT [summerized](http://www.rle.mit.edu/rgallager/documents/BooleShannon.pdf) Shannon's speech.
 
@@ -14,7 +14,7 @@ Prof. Robert Gallager from MIT [summerized](http://www.rle.mit.edu/rgallager/doc
 * intelligence
 * motivation and drive
 
-then he gave out "tricks for formulating and solving problems"
+then he gave out "tricks for formulating and solving problems", which also what mental model does.
 
 * simplification: get rid of enough detail (including practical aspects) for intuitive understanding.
 * similarity to a know problem
