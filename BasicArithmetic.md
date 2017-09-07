@@ -1,5 +1,4 @@
-#
-Discipline Mathematics, Basic Arithmetic
+# Discipline Mathematics, Basic Arithmetic
 
 ## Discipline:
 
@@ -40,21 +39,39 @@ Claude Shannon gave a [speech](http://www1.ece.neu.edu/~naderi/Claude%20Shannon.
 > The first one that I might speak of is the idea of simplification. Suppose that you are given a problem to solve, I don’t care what kind of a problem - a machine to design, or a physical theory to develop, or a mathematical theorem to prove, or something of that kind - probably a very powerful approach to this is to attempt to eliminate everything from the problem except the essentials; that is, cut it down to size. Almost every problem that you come across is befuddled with all kinds of extraneous data of one sort or another; and if you can bring this problem down into the main issues, you can see more clearly what you’re trying to do and perhaps find a solution. Now, in so doing, you may have stripped away the problem that you’re after. You may have simplified it to a point that it doesn’t even resemble the problem that you started with; but very often if you can solve this simple problem, you can add refinements to the solution of this until you get back to the solution of the one you started with.
 
 
-## modeling 
+### What is the base rate and prior look like ?
 
-Use [spreadsheet](https://www.google.com/sheets/about/) to a math model of the things your try to understand:
+One of the most important thing for a good prediction is to get the distribution and base rate right.
 
-
-
-* list Input/outputs
-* identify any alternate route from input to outputs.
-
-eg. for business , it is revenue and cost;
-
-### try to guess what is the distribution of the outcomes
+There are roughly two kind of distribution in world, normal distributed and others.
 
 
-### Identify what is kind of system it is,  is it a **multiplicative** Or **Additive** System
+#### Normal Distribution Prediction rules
+
+Most nature things are in this categories, things that cluster around an average value,
+we usually classified this distribution as normal distribution, normal distribution hints an underlying additive system at work.
+
+If the outcome is normal distributed, Brian Christian, Tom Griffiths suggest us to use the **Average Rule** in [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
+
+> we get an Average Rule: use the distribution’s “natural” average— its single, specific scale— as your guide. For instance, if somebody is younger than the average life span, then simply predict the average; as their age gets close to and then exceeds the average, predict that they’ll live a few years more. Following this rule gives reasonable predictions for the 90-year-old and the 6-year-old: 94 and 77, respectively. (The 6-year-old gets a tiny edge over the population average of 76 by virtue of having made it through infancy: we know he’s not in the distribution’s left tail.)
+
+In summary , the rules is simple:
+
+* if less than average, predict average
+* if more the average, predict average + some fraction of average
+
+
+What else is normally distributed ?
+
+IQ scores( or any kind of score/exam system in general), variation in individuals( height,life span), movie playing times
+
+#### Power law Distribution Prediction rules.
+
+A few thing in life, especially human related things, are not normally distribued. eg. city population,web site traffic, wealth distribution,  in general, money related things are generally obey powerlaws.
+
+
+
+### Is it a **multiplicative** Or **Additive** System
 
 The best explanation of multiplicative & additive system in [farnamstreetblog](https://www.farnamstreetblog.com/2016/08/mental-model-multiplicative-systems/)
 
