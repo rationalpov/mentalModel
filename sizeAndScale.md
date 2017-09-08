@@ -14,6 +14,8 @@ Basic Arithmetic
 
 ### Peer Lattice:
 
+[Kleiber's law](https://en.wikipedia.org/wiki/Kleiber%27s_law)
+
 # Introductions
 
 
@@ -58,6 +60,16 @@ it is because both mice and elephant are warm blooded, but as elephant's [averag
 
 ## How to use this mental Model:
 
+When you scale things up or down, split each critical property and try to find out if any scaling speed discrepancy exist.
+
+eg. when scaling a physical object up 
+
+weight/mass ∝ length ^3
+strength ∝ length ^2
+
+according to Kleiber's law, 
+
+most animal metalbolic rate ∝ ¾ power of the animal's mass
 
 
 ### Conditions:
