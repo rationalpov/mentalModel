@@ -43,7 +43,7 @@ In his speech on Creative thinking, Shannon [mentioned](http://www1.ece.neu.edu/
 
 **How to use this mental Model**:
 
-(1) Invert. Take a particular goal that you hope to achieve – now invert it to find your non-goal. To do this ask: What don’t I want to achieve?
+(1) Invert. Take a particular goal that you hope to achieve – now invert it to find your non-goal. To do this ask: What is the opposite I am trying to achieve?
 
 
 For example, if your goal is to lose weight, then your non-goal is to get fat.
