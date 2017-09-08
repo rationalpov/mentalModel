@@ -36,7 +36,7 @@ Thats the world we are living in, it is filled with combinatorial explosion. The
 Combinatorial explosion can be used in two ways.
 
 
-One way is forward, you use Combinatorial explosion to create many many alternative path or (products), thats what amazon aws does, it doesn't try to create the any product or services through combination, instead it focused on the atoms( elementary services)
+One way is forward, use combinatorial explosion to [package](https://en.wikipedia.org/wiki/Product_bundling) a lot of features or products together.
 
 by doing this way, you can:
 
@@ -46,6 +46,13 @@ by doing this way, you can:
 
 To really understand a system, one very effective way is to try to break down a complex sysstem into its components. thats usually very difficult to do.
 
+the other way to invert, focus on the elements, and let user decide what to do for each atom . thats what amazon aws does, it doesn't try to create the any product or services through combination, instead it focused on the atoms( elementary services)
+
+
+by doing this way, you can:
+
+* obtain the **broadest** customer/audience
+* achieve **scale**
 
 #### Analysis from First Principles, how Richard Feynman and Elon Musk do analysis
 
