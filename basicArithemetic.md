@@ -27,7 +27,8 @@ Invert
 
 # Introduction
 
-The first mental model is basic arithmetic, it was one of the most important mental model according to Charlie Munger.Why it is important ? because it helps you do the modelling. When you convert things into a number, you are automatically building a model.
+The first mental model is basic arithmetic, it was one of the most important mental model according to Charlie Munger.
+Why it is so important ? Because it helps you do the modelling. When you convert things into a number, you are automatically building a model.
 
 ## How to use this mental Model:
 
